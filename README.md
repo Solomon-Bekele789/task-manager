@@ -19,7 +19,7 @@ A professional REST API built with Python and FastAPI.
 - Deployed on Railway
 
 ## Live API
-🌐 [View Live API](https://your-railway-url.up.railway.app/docs)
+🌐 [View Live API](https://solomon-tasks.up.railway.app/docs)
 
 ## Endpoints
 
